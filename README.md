@@ -81,11 +81,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisalsuryasaputra/faisalsuryasaputra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faisalsuryasaputra/faisalsuryasaputra/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div style="text-align: center;">
-  <a href="(https://open.spotify.com/user/312iviv56fnydqc7rgbkz5nngr6a)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312iviv56fnydqc7rgbkz5nngr6a&count=5" alt="Spotify recently played" />
-  </a>
-</div>
