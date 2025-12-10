@@ -40,18 +40,6 @@
 
 ###
 
-<h3 style="text-align: left;">🛠 Language and tools</h3>
-
-###
-
-<h3 style="text-align: left;">🔥 My Stats :</h3>
-
-###
-
-<div style="text-align: center;">
-  <img src="https://streak-stats.demolab.com?user=faisalsuryasaputra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
 ###
 
 <picture>
@@ -66,21 +54,6 @@
   Seorang developer yang antusias mempelajari teknologi baru.
 </p>
 
----
-
-### 📊 Statistik Bahasa & Coding Saya
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalsuryasaputra&layout=compact&theme=radical"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faisalsuryasaputra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalsuryasaputra&theme=radical" alt="faisalsuryasaputra" />
-</div>
 
 ---
 
