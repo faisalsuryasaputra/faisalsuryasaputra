@@ -23,7 +23,7 @@
 
 ###
 
-<h1 style="text-align: center;">hey there 👋</h1>
+<h1 style="text-align: center;">Hi there, I'm Faisal! 👋</h1>
 
 ###
 
@@ -47,13 +47,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisalsuryasaputra/faisalsuryasaputra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faisalsuryasaputra/faisalsuryasaputra/output/pacman-contribution-graph.svg">
 </picture>
-
-<h1 align="center">Hi there, I'm Faisal! 👋</h1>
-
-<p align="center">
-  Seorang developer yang antusias mempelajari teknologi baru.
-</p>
-
 
 ---
 
