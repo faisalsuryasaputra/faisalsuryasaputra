@@ -38,6 +38,7 @@
   - ⚡ In my free time I engage in UI/UX design projects, contribute to community events, and explore new front-end technologies.
 </p>
 
+```
 const aboutMe = {
   pronouns: 'he' | 'him',
   language: [Javascript, Typescript, HTML, CSS, Python, Node, Solidity],
@@ -46,6 +47,7 @@ const aboutMe = {
   other: [Firebase, Hardhat],
   currentlyLearning: [ML, SmartContract, Storybook, Testing (Cypress, Vitest)]
 }
+```
 
 ###
 
