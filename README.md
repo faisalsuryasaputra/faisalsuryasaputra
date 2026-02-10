@@ -26,15 +26,15 @@
 [![GitHub faisalsuryasaputra](https://img.shields.io/github/followers/faisalsuryasaputra?label=followers&style=social)](https://github.com/faisalsuryasaputra) &nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success) &nbsp;
 
-<h3 style="text-align: left;">👩‍💻 About Me</h3>
+<h3 style="text-align: left;">About Me</h3>
 
 ###
 
 <p style="text-align: left;">
   I'm Faisal from Bandung<br><br>
-  - 🔭 I’m working as UI/UX Designer<br>
-  - 📚 I'm currently learning AI Engineer<br>
-  - ⚡ In my free time I engage in UI/UX design projects, contribute to community events, and explore new front-end technologies.
+  - I’m working as UI/UX Designer<br>
+  - I'm currently learning AI Engineer<br>
+  - In my free time I engage in UI/UX design projects, contribute to community events, and explore new front-end technologies.
 </p>
 
 ###
