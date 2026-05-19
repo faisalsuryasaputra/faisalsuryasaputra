@@ -58,3 +58,26 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p>
+  <img
+    src="https://githubstat-rust.vercel.app/api?username=faisalsuryasaputra&theme=outrun&show_icons=true&hide_border=false&include_all_commits=true&count_private=true"
+    alt="faisalsuryasaputra"
+  />
+</p>
+
+<p>
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=faisalsuryasaputra&theme=outrun&hide_border=false"
+    alt="faisalsuryasaputra"
+  />
+</p>
+
+<p>
+  <img
+    src="https://githubstat-rust.vercel.app/api/top-langs/?username=faisalsuryasaputra&theme=outrun&show_icons=true&hide_border=false&layout=compact&count_private=true"
+    alt="faisalsuryasaputra"
+  />
+</p>
