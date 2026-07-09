@@ -26,8 +26,6 @@
 [![GitHub faisalsuryasaputra](https://img.shields.io/github/followers/faisalsuryasaputra?label=followers&style=social)](https://github.com/faisalsuryasaputra) &nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success) &nbsp;
 
-<h3 style="text-align: left;">About Me</h3>
-
 ###
 ---
 
