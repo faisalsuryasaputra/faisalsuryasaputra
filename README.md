@@ -27,7 +27,6 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success) &nbsp;
 
 ###
----
 
 ## My Stats
 <p align="left">
