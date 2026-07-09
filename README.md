@@ -29,17 +29,6 @@
 <h3 style="text-align: left;">About Me</h3>
 
 ###
-
-<p style="text-align: left;">
-  I'm Faisal from Bandung<br><br>
-  - I’m working as UI/UX Designer<br>
-  - I'm currently learning AI Engineer<br>
-  - In my free time I engage in UI/UX design projects, contribute to community events, and explore new front-end technologies.
-</p>
-
-###
-
-###
 ---
 
 ## My Stats
