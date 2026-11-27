@@ -28,15 +28,6 @@
 
 ###
 
-## My Stats
-### <img alt="handwavegif" width="32" top="5" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" />  Hi there!
-
-# I'm Haulul.
-![profile count](https://komarev.com/ghpvc/?username=haululazkiyaa&color=red) 
-[![GitHub haululazkiyaa](https://img.shields.io/github/followers/haululazkiyaa?label=follow&style=social)](https://github.com/haululazkiyaa) 
-![build: passing](https://img.shields.io/badge/build-passing-success) 
-
-Looking for opportunities...
 
 ### 🛠 &nbsp;Tech Stack
 
