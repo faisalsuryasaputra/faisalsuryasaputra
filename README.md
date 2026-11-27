@@ -35,9 +35,9 @@
 
 ### How to reach me:
 
-<a href="https://instagram.com/haululazkiyaa"><img src="https://img.shields.io/badge/-@haululazkiyaa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> 
-<a href="mailto:haululazkiya@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
-<a href="https://id.linkedin.com/in/muhammad-haulul-azkiyaa-b5ba701bb"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> 
+<a href="https://instagram.com/fsalsalll_"><img src="https://img.shields.io/badge/-@haululazkiyaa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> 
+<a href="mailto:faisalsuryasaputra04@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
+<a href="https://id.linkedin.com/in/faisalsuryasaputra"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> 
 
 ### 🛠 &nbsp;Tech Stack
 
